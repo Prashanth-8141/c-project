@@ -1,6 +1,7 @@
-main () {
-	biggest3();
-	factorial();
+#include<stdio.h>
+main() {
 
-}	
-
+         biggest3();
+         factorial();
+      
+}
